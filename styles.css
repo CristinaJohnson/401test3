@@ -104,7 +104,7 @@ aside p {
 }
 
 h2 {
-    font-size: 6 em;
+    font-size: 1.75em;
     text-align: center;
     padding-bottom: 0.5em;
 }
@@ -143,7 +143,7 @@ footer a:link {
 }
 
 footer a:visited {
-    color: navy;
+    color: white;
     background-color: grey;
     text-decoration: none;
 }
@@ -151,3 +151,6 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+
+
